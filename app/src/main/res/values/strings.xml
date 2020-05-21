@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="buy_course">Buy Course:</string>
+    <string name="sell_course">Sell Course:</string>
+    <string name="cb_course">Cb Course:</string>
+    <string name="currency">Currency:</string>
+    <string name="currency_code">Currency Code:</string>
+    <string name="scale">Scale:</string>
+    <string name="no_internet">No intenet connection!</string>
+    <string name="error">Something went wrong!</string>
+</resources>
